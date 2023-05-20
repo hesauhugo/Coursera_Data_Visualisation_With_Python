@@ -1,0 +1,2 @@
+Explicação : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%204/4.5_Dash_Basics.md.html
+Plataforma : https://labs.cognitiveclass.ai/v2/tools/cloud-ide-kubernetes?ulid=ulid-edb371915e36cb24e6808443699365b0b0a42594

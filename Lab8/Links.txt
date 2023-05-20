@@ -1,0 +1,2 @@
+Lab = https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%204/4.7_Dash_Interactivity.md.html
+plataforma = https://labs.cognitiveclass.ai/v2/tools/cloud-ide-kubernetes?ulid=ulid-75a17bf8c6fbf8dd8a420a67d47e386d030e2b40
